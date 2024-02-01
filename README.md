@@ -60,7 +60,7 @@ https://github.com/Vi-Mars/Git-test-net/commit/a94f874f497e086d0dfe52ba625bbb893
 
 # Решение:
 
-https://github.com/Vi-Mars/Git-test-net/blob/main/.gitignor
+https://github.com/Vi-Mars/Git-test-net/blob/main/.gitignore
  
 ### Задание 3
 
