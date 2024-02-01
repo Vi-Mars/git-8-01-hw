@@ -59,8 +59,9 @@ https://github.com/Vi-Mars/Git-test-net/commit/a94f874f497e086d0dfe52ba625bbb893
 
 
 # Решение:
-https://github.com/Vi-Mars/Git-test-net/blob/317eaec8ca5601df1eca317c3e68d85701551ba4/.gitignore
 
+https://github.com/Vi-Mars/Git-test-net/commit/075b59f0176868d28150004563ca29a7a0bc0ae1
+ 
 ### Задание 3
 
 Что нужно сделать:
